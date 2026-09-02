@@ -1,7 +1,6 @@
- <H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
-<H3>EX. NO.8</H3>
-<H3>DATE:</H3>
+ <H3>NAME : Hemavathy S</H3>
+<H3>REGISTER NO : 212223230076</H3>
+<H3>EX.NO : 8</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
@@ -22,7 +21,10 @@ Step 11: Perform speech recognition with exceptional handling:<Br>
 •	A generic exception block captures any other unexpected errors.<Br>
 <H3>Program:</H3>
 
-Insert your code her
+```python
+
+
+```
 
 <H3> Output:</H3>
 Show the results here
